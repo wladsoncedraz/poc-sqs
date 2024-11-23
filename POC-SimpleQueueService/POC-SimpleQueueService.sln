@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POC-SimpleQueueService", "POC-SimpleQueueService\POC-SimpleQueueService.csproj", "{DAFBFE55-08DF-4F9A-9F11-2C425ED857EA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageProducer", "MessageProducer\MessageProducer.csproj", "{D0C1A4A3-E0DA-4DAA-974B-82091EEFD588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageConsumer", "MessageConsumer\MessageConsumer.csproj", "{04D82C60-C82F-4044-BE2F-BA251925DCF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DAFBFE55-08DF-4F9A-9F11-2C425ED857EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DAFBFE55-08DF-4F9A-9F11-2C425ED857EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DAFBFE55-08DF-4F9A-9F11-2C425ED857EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DAFBFE55-08DF-4F9A-9F11-2C425ED857EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C1A4A3-E0DA-4DAA-974B-82091EEFD588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C1A4A3-E0DA-4DAA-974B-82091EEFD588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C1A4A3-E0DA-4DAA-974B-82091EEFD588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C1A4A3-E0DA-4DAA-974B-82091EEFD588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D82C60-C82F-4044-BE2F-BA251925DCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D82C60-C82F-4044-BE2F-BA251925DCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D82C60-C82F-4044-BE2F-BA251925DCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D82C60-C82F-4044-BE2F-BA251925DCF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

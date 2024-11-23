@@ -1,3 +1,7 @@
 
 /POC-SimpleQueueService/.vs
 /POC-SimpleQueueService/POC-SimpleQueueService/obj
+/POC-SimpleQueueService/MessageConsumer/bin
+/POC-SimpleQueueService/MessageConsumer/obj
+/POC-SimpleQueueService/MessageProducer/obj
+/POC-SimpleQueueService/MessageProducer/bin
