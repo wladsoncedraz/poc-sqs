@@ -41,7 +41,7 @@ This project is a Proof of Concept (POC) to demonstrate the use of **Amazon Simp
 To prepare the local environment for integrating with AWS SQS and configuring the required credentials, follow the steps below:
 
 ### 1. Create an AWS Account
-If you don¡¯t already have an AWS account:
+If you don't already have an AWS account:
 - Visit [AWS Signup](https://aws.amazon.com/) and complete the registration process.
 - Once created, log in to the **AWS Management Console**.
 
@@ -88,7 +88,7 @@ If you don¡¯t already have an AWS account:
 - Save the following information securely:
     - Access Key: [AWS_ACCESS_KEY_ID]
     - Secret Key: [AWS_SECRET_ACCESS_KEY]
-    - Region: [AWS_REGION] (e.g., us-east-1 or sa-east-1 for S?o Paulo)
+    - Region: [AWS_REGION] (e.g., us-east-1 or sa-east-1 for SÃ£o Paulo)
 
 ### 6. Configure Environment Variables
 Set up environment variables. On Windows, you can do this via Control Panel > System > Advanced System Settings > Environment Variables:
